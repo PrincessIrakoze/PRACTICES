@@ -1,0 +1,2 @@
+# PRACTICES
+JS DOM practices
